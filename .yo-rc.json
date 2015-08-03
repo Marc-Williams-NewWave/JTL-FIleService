@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "jtlServer",
+    "packageName": "nwt.jtlserver.com",
+    "packageFolder": "nwt/jtlserver/com",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "363bdddd9d7779e1cc997b6bf967a827e645dc42"
+  }
+}
